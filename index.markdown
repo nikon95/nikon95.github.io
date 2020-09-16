@@ -9,7 +9,7 @@ Hello, I am Nikos Nikolaidis, **Electrical and Computer Engineer** graduate of t
 
 My research interests include **Machine Learning, Natural Language Processing and Text mining** as well as their applications in **Information Retrieval, Social Networks**, **IoT** and **CyberSecurity**.
 
-<div align="center" style="display: flex; margin: 5px">
+<div align="center" style="display: flex; margin: 5px;max-width: 400px">
   <img src="https://miro.medium.com/max/646/0*srtuMugkJtRtg1q6.png" style="height:300px;display: inline-block ;margin: 5px"/>
   <img src="{{site.baseurl}}/twitter.png" style="width:300px;display: inline-block;margin: 5px"/>
 </div>
@@ -30,10 +30,10 @@ Besides my techical foci, for the last 5 years as a student I have been very act
 <img src="https://eestechchallenge.eestec.net/assets/images/eestec-logo.png" style="width:500px;display: block"/>
 </div>
 
-<div align="center" style="display: flex; margin: 5px">
-  <img src="https://eestec.net/media/cache/49/2b/492b6137a8e0e7bf1b02c1b29436ec1e.jpg" style="width:300px;display: inline-block ;margin: 5px"/>
-  <img src="{{site.baseurl}}/training.jpeg" style="width:300px;display: inline-block;margin: 5px"/>
-  <img src="{{site.baseurl}}/ec.png" style="width:300px;display: inline-block;margin: 5px"/>
+<div align="center" style="display: flex; max-width: 400px">
+  <img src="https://eestec.net/media/cache/49/2b/492b6137a8e0e7bf1b02c1b29436ec1e.jpg" style="width:55%;display: inline-block;margin-left:5px"/>
+  <img src="{{site.baseurl}}/training.jpeg" style="width:55%;display: inline-block;margin-left:5px"/>
+  <img src="{{site.baseurl}}/ec.png" style="width:55%;display: inline-block;margin-left:5px"/>
 </div>
 
 Highlighting some key responsibilities, in 2018, I was responsible for the **online training activities** of **over 1000 engineering students across Europe**, as well as part of a pan-European team responsible for a **European Competition on Machine Learning** taking place in 2017, at 16 Universities accross the continent.
