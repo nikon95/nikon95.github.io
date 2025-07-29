@@ -2,6 +2,7 @@
 layout: default
 title: Narrative Detection
 permalink: /narrative-detection/
+hide_header: true
 ---
 
 Website describing corpora annotated with persuasion techniques
