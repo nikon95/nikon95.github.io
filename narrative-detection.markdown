@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Narrative Detection
+title: "PolyNarrative: A Multilingual, Multilabel, Multi-domain Dataset for Narrative Extraction from News Articles" 
 permalink: /narrative-detection/
 hide_header: true
 ---
 
-Website describing corpora annotated with persuasion techniques
+## PolyNarrative: A Multilingual, Multilabel, Multi-domain Dataset for Narrative Extraction from News Articles" 
 
 ### The dataset described in the paper: 
 
@@ -16,7 +16,7 @@ In Proceedings of the 63rd Annual Meeting of the Association for Computational L
 can be accessed an used for research purposes in the following manner:
 
 1. Please register to the Task 10 at SemEval 2025 at:
-<b>https://propaganda.math.unipd.it/semeval2025task10/</b>
+[https://propaganda.math.unipd.it/semeval2025task10/](https://propaganda.math.unipd.it/semeval2025task10/)
 
 2. Once registered and vetted the access will be granted to _**train**_ and _**dev**_ data of the shared task which corresponds to _**TRAIN**_ and _**TEST**_ the dataset described in the paper.
 
@@ -31,19 +31,7 @@ File name after downloading: *target_4_December_release.zip*
 #### Citation
 
 ```
-
-```
-
-<div style="
-  border: 1px solid #ccc;
-  border-left: 5px solid #007acc;
-  background-color: #f9f9f9;
-  padding: 1em;
-  margin: 2em 0;
-  border-radius: 6px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-  font-size: 0.95em;
-"@inproceedings{nikolaidis-etal-2025-polynarrative,
+@inproceedings{nikolaidis-etal-2025-polynarrative,
     title = "{P}oly{N}arrative: A Multilingual, Multilabel, Multi-domain Dataset for Narrative Extraction from News Articles",
     author = "Nikolaidis, Nikolaos  and
       Stefanovitch, Nicolas  and
@@ -68,6 +56,5 @@ File name after downloading: *target_4_December_release.zip*
     url = "https://aclanthology.org/2025.acl-long.1513/",
     pages = "31323--31345",
     ISBN = "979-8-89176-251-0"}
-  <span style="display:block; color: #666; font-size: 0.9em; margin-top: 0.5em;">
-  </span>
-</div>
+```
+
