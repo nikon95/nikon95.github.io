@@ -1,5 +1,7 @@
 ---
-title: "PolyNarrative: A Multilingual, Multilabel, Multi-domain Dataset for Narrative Extraction from News Articles"
+layout: default
+title: Narrative Detection
+permalink: /narrative-detection/
 ---
 
 Website describing corpora annotated with persuasion techniques
