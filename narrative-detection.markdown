@@ -15,7 +15,7 @@ In Proceedings of the 63rd Annual Meeting of the Association for Computational L
 
 can be accessed an used for research purposes in the following manner:
 
-1. Please register to the Task 10 at SemEval 2025 at:
+1. Please register to the Task 10 at SemEval 2025 at: <br/>
 [https://propaganda.math.unipd.it/semeval2025task10/](https://propaganda.math.unipd.it/semeval2025task10/)
 
 2. Once registered and vetted the access will be granted to _**train**_ and _**dev**_ data of the shared task which corresponds to _**TRAIN**_ and _**TEST**_ the dataset described in the paper.
