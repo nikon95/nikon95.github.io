@@ -1,5 +1,5 @@
 ---
-title: PolyNarrative: A Multilingual, Multilabel, Multi-domain Dataset for Narrative Extraction from News Articles
+title: "PolyNarrative: A Multilingual, Multilabel, Multi-domain Dataset for Narrative Extraction from News Articles"
 ---
 
 Website describing corpora annotated with persuasion techniques
