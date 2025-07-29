@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Narrative Detection
-permalink: /narrative-detection/
+permalink: /narrative-detection
 ---
 
 Website describing corpora annotated with persuasion techniques
