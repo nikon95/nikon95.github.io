@@ -31,31 +31,7 @@ File name after downloading: *target_4_December_release.zip*
 #### Citation
 
 ```
-@inproceedings{nikolaidis-etal-2025-polynarrative,
-    title = "{P}oly{N}arrative: A Multilingual, Multilabel, Multi-domain Dataset for Narrative Extraction from News Articles",
-    author = "Nikolaidis, Nikolaos  and
-      Stefanovitch, Nicolas  and
-      Silvano, Purifica{\c{c}}{\~a}o  and
-      Dimitrov, Dimitar Iliyanov  and
-      Yangarber, Roman  and
-      Guimar{\~a}es, Nuno  and
-      Sartori, Elisa  and
-      Androutsopoulos, Ion  and
-      Nakov, Preslav  and
-      Da San Martino, Giovanni  and
-      Piskorski, Jakub",
-    editor = "Che, Wanxiang  and
-      Nabende, Joyce  and
-      Shutova, Ekaterina  and
-      Pilehvar, Mohammad Taher",
-    booktitle = "Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
-    month = jul,
-    year = "2025",
-    address = "Vienna, Austria",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2025.acl-long.1513/",
-    pages = "31323--31345",
-    ISBN = "979-8-89176-251-0"}
+
 ```
 
 <div style="
@@ -67,8 +43,7 @@ File name after downloading: *target_4_December_release.zip*
   border-radius: 6px;
   box-shadow: 0 1px 3px rgba(0,0,0,0.05);
   font-size: 0.95em;
-">
-  > @inproceedings{nikolaidis-etal-2025-polynarrative,
+"@inproceedings{nikolaidis-etal-2025-polynarrative,
     title = "{P}oly{N}arrative: A Multilingual, Multilabel, Multi-domain Dataset for Narrative Extraction from News Articles",
     author = "Nikolaidis, Nikolaos  and
       Stefanovitch, Nicolas  and
