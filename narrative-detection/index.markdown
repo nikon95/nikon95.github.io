@@ -27,7 +27,19 @@ File name after downloading: *target_4_December_release.zip*
 
 #### Citation
 
-> @inproceedings{nikolaidis-etal-2025-polynarrative,
+
+
+<div style="
+  border: 1px solid #ccc;
+  border-left: 5px solid #007acc;
+  background-color: #f9f9f9;
+  padding: 1em;
+  margin: 2em 0;
+  border-radius: 6px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  font-size: 0.95em;
+">
+  > @inproceedings{nikolaidis-etal-2025-polynarrative,
     title = "{P}oly{N}arrative: A Multilingual, Multilabel, Multi-domain Dataset for Narrative Extraction from News Articles",
     author = "Nikolaidis, Nikolaos  and
       Stefanovitch, Nicolas  and
@@ -52,3 +64,6 @@ File name after downloading: *target_4_December_release.zip*
     url = "https://aclanthology.org/2025.acl-long.1513/",
     pages = "31323--31345",
     ISBN = "979-8-89176-251-0"}
+  <span style="display:block; color: #666; font-size: 0.9em; margin-top: 0.5em;">
+  </span>
+</div>
